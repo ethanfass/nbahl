@@ -1,0 +1,15 @@
+{
+  "_comment": "Accolades stats.nba.com does NOT expose: championship rings and league-leader titles (scoring/assist/rebound). Keyed by NBA player id. Anyone not listed defaults to 0 for these four — note that means championship counts are incomplete for non-stars (the API simply doesn't provide them). Add entries here as needed; the fetch script merges them in.",
+  "2544":    { "championships": 4, "scoringTitles": 1, "assistTitles": 1, "reboundTitles": 0 },
+  "201939":  { "championships": 4, "scoringTitles": 2, "assistTitles": 0, "reboundTitles": 0 },
+  "201142":  { "championships": 2, "scoringTitles": 4, "assistTitles": 0, "reboundTitles": 0 },
+  "203507":  { "championships": 1, "scoringTitles": 0, "assistTitles": 0, "reboundTitles": 0 },
+  "203999":  { "championships": 1, "scoringTitles": 0, "assistTitles": 0, "reboundTitles": 0 },
+  "203954":  { "championships": 0, "scoringTitles": 2, "assistTitles": 0, "reboundTitles": 0 },
+  "201566":  { "championships": 0, "scoringTitles": 2, "assistTitles": 3, "reboundTitles": 0 },
+  "201935":  { "championships": 0, "scoringTitles": 3, "assistTitles": 2, "reboundTitles": 0 },
+  "101108":  { "championships": 0, "scoringTitles": 0, "assistTitles": 4, "reboundTitles": 0 },
+  "1628369": { "championships": 1, "scoringTitles": 0, "assistTitles": 0, "reboundTitles": 0 },
+  "1629029": { "championships": 0, "scoringTitles": 1, "assistTitles": 0, "reboundTitles": 0 },
+  "1628983": { "championships": 0, "scoringTitles": 1, "assistTitles": 0, "reboundTitles": 0 }
+}
