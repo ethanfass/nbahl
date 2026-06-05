@@ -539,7 +539,11 @@ body::after {
     /* stack the two panels */
     .arena { grid-template-columns: 1fr; grid-template-rows: 1fr 1fr; }
     .panel.left { border-right: none; border-bottom: 3px solid #000; }
-    .panel-inner { padding: 8px 14px; max-width: 100%; }
+    /* each half-panel is short, so don't let the head/foot zones expand (that pushes
+       content out to the seam and into the VS badge). Keep a compact, centered block
+       in the middle of each half so the seam stays clear. */
+    .panel-inner { padding: 8px 14px; max-width: 100%; justify-content: center; }
+    .pi-head, .pi-foot { flex: 0 0 auto; }
     .panel .pname { font-size: clamp(24px, 7vw, 38px); }
     .panel .meta { font-size: 17px; margin-top: 4px; }
     .panel .has { font-size: 10px; margin-top: 8px; }
