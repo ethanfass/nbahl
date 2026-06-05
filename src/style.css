@@ -366,6 +366,8 @@ body::after {
     top: 50%;
     transform: translate(-50%, -50%);
     z-index: 6;
+    /* purely decorative — never let it eat taps meant for the panels/buttons */
+    pointer-events: none;
     width: 88px;
     height: 88px;
     border-radius: 50%;
@@ -518,7 +520,18 @@ body::after {
     .panel .stat-label .stat-name { font-size: 12px; }
     .panel .stat-label .than { font-size: 17px; }
 
-    .vs-badge { width: 58px; height: 58px; font-size: 16px; }
+    /* slim seam medallion — short + wide so it rides the divider line between the
+       stacked panels instead of covering the name / stat text above and below it */
+    .vs-badge {
+        width: auto;
+        height: auto;
+        min-width: 0;
+        border-radius: 999px;
+        padding: 7px 13px;
+        font-size: 12px;
+        letter-spacing: 2px;
+        box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.5), 0 0 14px rgba(255, 255, 255, 0.4), 0 3px 10px rgba(0, 0, 0, 0.55);
+    }
     .guess-stack { gap: 10px; }
     .gbtn { font-size: 14px; padding: 12px 30px; border-radius: 36px; }
     .gbtn .arrow { font-size: 12px; }
