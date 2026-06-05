@@ -109,10 +109,15 @@ function colorDistance(a: string, b: string): number {
 
 // The category as a colored pill, with the metric name (in its own color) below.
 // If the metric color is too close to the category color, fall back to white so
-// the two never read as the same color. `suffix` appends "than <player>".
-function statLabelHtml(stat: StatDef, suffix = ''): string {
+// the two never read as the same color. `suffix` appends "than <player>", and
+// `years` (the career span) sits right under the "Career" pill when present.
+function statLabelHtml(stat: StatDef, suffix = '', years: string | null = null): string {
     const metricColor = colorDistance(stat.color, stat.categoryColor) < 90 ? '#ffffff' : stat.color;
-    return `<span class="cat" style="--cat:${stat.categoryColor}">${stat.categoryLabel}</span>` +
+    const pill = `<span class="cat" style="--cat:${stat.categoryColor}">${stat.categoryLabel}</span>`;
+    const cat = years
+        ? `<span class="cat-wrap">${pill}<span class="span">${years}</span></span>`
+        : pill;
+    return cat +
         `<span class="stat-name" style="color:${metricColor}">${stat.label}${suffix}</span>`;
 }
 
@@ -184,10 +189,9 @@ export class UI {
                             </div>
                             <div class="answer-slot">
                                 <div class="stat-value" style="color:${stat.color}">${stat.format(lv)}</div>
-                                ${leftSpan ? `<div class="span">${leftSpan}</div>` : ''}
                             </div>
                             <div class="pi-foot">
-                                <div class="stat-label">${statLabelHtml(stat)}</div>
+                                <div class="stat-label">${statLabelHtml(stat, '', leftSpan)}</div>
                             </div>
                         </div>
                     </div>
@@ -204,10 +208,9 @@ export class UI {
                             </div>
                             <div class="answer-slot">
                                 ${this.rightMiddleHtml(view, rightValueClass, rightValueText)}
-                                ${rightSpan ? `<div class="span">${rightSpan}</div>` : ''}
                             </div>
                             <div class="pi-foot">
-                                <div class="stat-label">${statLabelHtml(stat, `<span class="than">than <span class="than-name">${escape(left.name)}</span></span>`)}</div>
+                                <div class="stat-label">${statLabelHtml(stat, `<span class="than">than <span class="than-name">${escape(left.name)}</span></span>`, rightSpan)}</div>
                             </div>
                         </div>
                     </div>

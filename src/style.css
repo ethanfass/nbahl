@@ -353,6 +353,13 @@ body::after {
     margin-top: 0; /* spacing handled by the answer-slot margin so top/bottom stay even */
     line-height: 1.3;
 }
+/* career rounds: the year span stacks right under the "Career" pill */
+.panel .stat-label .cat-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 11px;
+}
 /* the "when" — a pill badge so it clearly reads as a tag, not part of the metric */
 .panel .stat-label .cat {
     font-family: 'Press Start 2P', monospace;
@@ -549,8 +556,9 @@ body::after {
     .panel .has { font-size: 10px; margin-top: 8px; }
     .answer-slot { min-height: 84px; margin: 6px 0; gap: 6px; }
     .panel .stat-value { font-size: clamp(28px, 8vw, 44px); }
-    .panel .span { font-size: 9px; margin-top: 6px; }
+    .panel .span { font-size: 9px; margin-top: 0; }
     .panel .stat-label { font-size: 17px; margin-top: 0; }
+    .panel .stat-label .cat-wrap { gap: 7px; } /* tighter under the pill at mobile sizes */
     .panel .stat-label .cat { font-size: 10px; }
     .panel .stat-label .stat-name { font-size: 12px; }
     .panel .stat-label .than { font-size: 17px; }
