@@ -42,18 +42,49 @@ function escape(s: string): string {
     return d.innerHTML;
 }
 
-// "Forward · LAL" under the player's name (whichever pieces we have).
+// A vivid, distinct color per listed position so they read at a glance.
+const POSITION_COLORS: Record<string, string> = {
+    'G': '#3fa9ff',   // guard — electric blue
+    'F': '#2be08b',   // forward — green
+    'C': '#ff8a3d',   // center — orange
+    'G-F': '#2bd4c4', // aqua
+    'F-G': '#a6e22e', // lime
+    'C-F': '#ff5ca8', // pink
+    'F-C': '#b25cff', // purple
+};
+
+// Each team's signature color, brightened where the real hue is too dark to
+// read over the headshot. Keyed by the abbreviation stored on the player.
+const TEAM_COLORS: Record<string, string> = {
+    ATL: '#e8434b', BKN: '#cdd2d9', BOS: '#1bb463', CHA: '#2db5c6', CHI: '#e8434b',
+    CLE: '#c24e6e', DAL: '#3a8de0', DEN: '#f4b940', DET: '#e85a6a', GSW: '#fdb927',
+    HOU: '#e8434b', IND: '#f4c84a', LAC: '#e85a6a', LAL: '#b25cff', MEM: '#5aa7e0',
+    MIA: '#e8466e', MIL: '#2cb46b', MIN: '#4e9fe0', NOP: '#caa257', NYK: '#f58426',
+    OKC: '#3a9fe0', ORL: '#3a8de0', PHI: '#3a8de0', PHX: '#c46cff', POR: '#e8434b',
+    SAC: '#9e5cff', SAS: '#cdd2d9', TOR: '#e8434b', UTA: '#f4c84a', WAS: '#3a8de0',
+};
+
+// "F · LAL" under the player's name (whichever pieces we have), with the
+// position and team each tinted their own color for a bit of pop / context.
 function metaLine(p: Player): string {
-    const parts = [p.position, p.team].filter(Boolean) as string[];
-    return parts.length ? `<div class="meta">${escape(parts.join(' · '))}</div>` : '';
+    const bits: string[] = [];
+    if (p.position) {
+        const c = POSITION_COLORS[p.position] ?? '#ffffff';
+        bits.push(`<span class="pos" style="color:${c}">${escape(p.position)}</span>`);
+    }
+    if (p.team) {
+        const c = TEAM_COLORS[p.team] ?? '#ffffff';
+        bits.push(`<span class="team" style="color:${c}">${escape(p.team)}</span>`);
+    }
+    return bits.length ? `<div class="meta">${bits.join('<span class="dot"> · </span>')}</div>` : '';
 }
 
-// 2003 -> "2003-04"
+// 2003 -> "03-04"
 function seasonLabel(year: number): string {
-    return `${year}-${String((year + 1) % 100).padStart(2, '0')}`;
+    return `${String(year % 100).padStart(2, '0')}-${String((year + 1) % 100).padStart(2, '0')}`;
 }
 
-// "2003-04 – 2025-26", or null if we don't have the years.
+// "03-04 – 25-26", or null if we don't have the years.
 function careerSpan(p: Player): string | null {
     if (!p.careerFrom || !p.careerTo) return null;
     return `${seasonLabel(p.careerFrom)} – ${seasonLabel(p.careerTo)}`;
@@ -119,7 +150,7 @@ export class UI {
             ? `<div class="result-badge ${view.correct ? 'good' : 'bad'}">${view.correct ? '✓' : '✗'}</div>`
             : '';
 
-        // career year span — shown for the known player always, the mystery only on reveal
+        // career year span — shown under both players for context (career-stat rounds)
         const career = isCareerStat(stat);
         const leftSpan = career ? careerSpan(left) : null;
         const rightSpan = career ? careerSpan(right) : null;
@@ -128,7 +159,7 @@ export class UI {
 
         this.root.innerHTML = `
             <div class="topbar">
-                <div class="title"><span class="hi">Higher</span> or <span class="lo">Lower</span> — <span class="nn">N</span><span class="nb">B</span><span class="na">A</span></div>
+                <div class="title"><span class="hi">Higher</span> or <span class="lo">Lower</span> x <span class="nn">N</span><span class="nb">B</span><span class="na">A</span></div>
                 <div class="modes" role="tablist">
                     <button class="mode-btn ${mode === 'unlimited' ? 'active' : ''}" data-mode="unlimited">Unlimited</button>
                     <button class="mode-btn ${mode === 'timed' ? 'active' : ''}" data-mode="timed">1 Min</button>
@@ -146,14 +177,18 @@ export class UI {
                         <img class="panel-bg" alt="${escape(left.name)}" src="${headshotUrl(left)}" />
                         <div class="panel-overlay"></div>
                         <div class="panel-inner ${view.phase === 'play' ? 'intro' : ''}">
-                            <div class="pname">${escape(left.name)}</div>
-                            ${metaLine(left)}
-                            <div class="has">has</div>
+                            <div class="pi-head">
+                                <div class="pname">${escape(left.name)}</div>
+                                ${metaLine(left)}
+                                <div class="has">has</div>
+                            </div>
                             <div class="answer-slot">
                                 <div class="stat-value" style="color:${stat.color}">${stat.format(lv)}</div>
                                 ${leftSpan ? `<div class="span">${leftSpan}</div>` : ''}
                             </div>
-                            <div class="stat-label">${statLabelHtml(stat)}</div>
+                            <div class="pi-foot">
+                                <div class="stat-label">${statLabelHtml(stat)}</div>
+                            </div>
                         </div>
                     </div>
                     <div class="vs-badge">VS</div>
@@ -162,14 +197,18 @@ export class UI {
                         <div class="panel-overlay"></div>
                         ${resultBadge}
                         <div class="panel-inner ${view.phase === 'play' ? 'intro' : ''}">
-                            <div class="pname">${escape(right.name)}</div>
-                            ${metaLine(right)}
-                            <div class="has">has</div>
+                            <div class="pi-head">
+                                <div class="pname">${escape(right.name)}</div>
+                                ${metaLine(right)}
+                                <div class="has">has</div>
+                            </div>
                             <div class="answer-slot">
                                 ${this.rightMiddleHtml(view, rightValueClass, rightValueText)}
-                                ${revealed && rightSpan ? `<div class="span">${rightSpan}</div>` : ''}
+                                ${rightSpan ? `<div class="span">${rightSpan}</div>` : ''}
                             </div>
-                            <div class="stat-label">${statLabelHtml(stat, ` <span class="than">than ${escape(left.name)}</span>`)}</div>
+                            <div class="pi-foot">
+                                <div class="stat-label">${statLabelHtml(stat, `<span class="than">than <span class="than-name">${escape(left.name)}</span></span>`)}</div>
+                            </div>
                         </div>
                     </div>
                 </div>

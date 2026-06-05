@@ -219,9 +219,22 @@ body::after {
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 100%;
     padding: 18px 24px;
     max-width: 94%;
 }
+/* head (name/meta/has) and foot (stat label) take equal space above and below the
+   answer slot, so the value / guess buttons stay pinned to the panel's true center
+   — i.e. on the same horizontal line as the VS badge. */
+.pi-head, .pi-foot {
+    flex: 1 1 0;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pi-head { justify-content: flex-end; }
+.pi-foot { justify-content: flex-start; }
 /* content pops in on each new matchup (play phase only, so reveal doesn't re-pop) */
 .panel-inner.intro { animation: panel-pop 0.34s cubic-bezier(0.2, 0.9, 0.3, 1.3) both; }
 @keyframes panel-pop {
@@ -249,12 +262,21 @@ body::after {
     margin-top: 8px;
     text-shadow: 1px 1px 0 #000;
 }
+/* position + team each carry their own color — a crisp black outline plus a
+   faint same-color glow keeps them legible and makes them pop over the headshot */
+.panel .meta .pos,
+.panel .meta .team {
+    text-shadow:
+        1px 1px 0 #000, -1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000,
+        0 0 9px currentColor;
+}
+.panel .meta .dot { color: var(--ink-dim); text-shadow: 1px 1px 0 #000; }
 .panel .has {
     font-family: 'Press Start 2P', monospace;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: var(--ink-dim);
+    color: var(--ink); /* white, matching the "than <player>" text */
     margin: 16px 0 0;
     text-shadow: 1px 1px 0 #000;
 }
@@ -266,7 +288,7 @@ body::after {
     justify-content: center;
     gap: 10px;
     min-height: 132px;
-    margin: 10px 0 4px;
+    margin: 10px 0; /* equal top/bottom so the value + career span sit balanced */
 }
 /* blocky check / cross stamped on the unknown panel — blinks in like a CRT flash */
 .result-badge {
@@ -328,7 +350,7 @@ body::after {
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    margin-top: 16px;
+    margin-top: 0; /* spacing handled by the answer-slot margin so top/bottom stay even */
     line-height: 1.3;
 }
 /* the "when" — a pill badge so it clearly reads as a tag, not part of the metric */
@@ -344,8 +366,15 @@ body::after {
     padding: 6px 14px;
     text-shadow: 1px 1px 0 #000;
 }
-/* the "what" — the metric, larger and in its own color */
+/* the "what" — the metric, larger and in its own color. inline-flex + center so the
+   pixel-font metric and the VT323 "than <player>" line up by their middles, not their
+   (mismatched) text baselines. */
 .panel .stat-label .stat-name {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2px 10px;
     font-family: 'Press Start 2P', monospace;
     font-size: 20px;
     letter-spacing: 1px;
@@ -358,6 +387,8 @@ body::after {
     font-size: 30px;
     letter-spacing: 0;
 }
+/* the player name after "than" — blue to match player 1's name */
+.panel .stat-label .than-name { color: #6fb0ff; }
 
 /* ---- VS badge in the seam ---- */
 .vs-badge {
@@ -512,10 +543,10 @@ body::after {
     .panel .pname { font-size: clamp(24px, 7vw, 38px); }
     .panel .meta { font-size: 17px; margin-top: 4px; }
     .panel .has { font-size: 10px; margin-top: 8px; }
-    .answer-slot { min-height: 84px; margin: 6px 0 2px; gap: 6px; }
+    .answer-slot { min-height: 84px; margin: 6px 0; gap: 6px; }
     .panel .stat-value { font-size: clamp(28px, 8vw, 44px); }
     .panel .span { font-size: 9px; margin-top: 6px; }
-    .panel .stat-label { font-size: 17px; margin-top: 8px; }
+    .panel .stat-label { font-size: 17px; margin-top: 0; }
     .panel .stat-label .cat { font-size: 10px; }
     .panel .stat-label .stat-name { font-size: 12px; }
     .panel .stat-label .than { font-size: 17px; }

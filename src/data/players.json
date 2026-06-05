@@ -58,7 +58,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "aj-green",
@@ -119,7 +123,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "aj-johnson",
@@ -180,7 +188,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "aaron-gordon",
@@ -241,7 +253,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "aaron-holiday",
@@ -302,7 +318,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "aaron-nesmith",
@@ -363,7 +383,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "aaron-wiggins",
@@ -424,7 +448,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ace-bailey",
@@ -485,7 +513,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "adama-bal",
@@ -546,7 +578,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "adem-bona",
@@ -607,7 +641,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "adou-thiero",
@@ -668,7 +706,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ajay-mitchell",
@@ -729,7 +771,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "al-horford",
@@ -790,7 +836,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2007,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "alex-antetokounmpo",
@@ -851,7 +901,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "alex-caruso",
@@ -912,7 +966,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "alex-morales",
@@ -973,7 +1031,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "alex-sarr",
@@ -1034,7 +1096,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "alijah-martin",
@@ -1095,7 +1161,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "alondes-williams",
@@ -1156,7 +1226,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "alperen-sengun",
@@ -1217,7 +1289,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "amari-williams",
@@ -1278,7 +1354,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "amen-thompson",
@@ -1339,7 +1419,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "amir-coffey",
@@ -1400,7 +1484,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "andersson-garcia",
@@ -1461,7 +1549,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "andre-drummond",
@@ -1522,7 +1612,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2012,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "andre-jackson-jr",
@@ -1583,7 +1677,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "andrew-nembhard",
@@ -1644,7 +1742,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "andrew-wiggins",
@@ -1705,7 +1807,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "anfernee-simons",
@@ -1766,7 +1872,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "anthony-black",
@@ -1827,7 +1937,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "anthony-davis",
@@ -1888,7 +2002,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2012,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "anthony-edwards",
@@ -1949,7 +2067,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "anthony-gill",
@@ -2010,7 +2132,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "antonio-reeves",
@@ -2071,7 +2197,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ariel-hukporti",
@@ -2132,7 +2262,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "asa-newell",
@@ -2193,7 +2327,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "ausar-thompson",
@@ -2254,7 +2392,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "austin-reaves",
@@ -2315,7 +2457,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ayo-dosunmu",
@@ -2376,7 +2522,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bam-adebayo",
@@ -2437,7 +2587,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "baylor-scheierman",
@@ -2498,7 +2652,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ben-saraf",
@@ -2559,7 +2717,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ben-sheppard",
@@ -2620,7 +2782,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bennedict-mathurin",
@@ -2681,7 +2847,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "bez-mbeng",
@@ -2742,7 +2912,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bilal-coulibaly",
@@ -2803,7 +2977,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bismack-biyombo",
@@ -2864,7 +3042,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2011,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "blake-hinson",
@@ -2925,7 +3107,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "blake-wesley",
@@ -2986,7 +3172,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bobby-portis",
@@ -3047,7 +3237,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "bobi-klintman",
@@ -3108,7 +3302,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2024,
+    "careerTo": 2025
   },
   {
     "id": "bogdan-bogdanovic",
@@ -3169,7 +3365,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bones-hyland",
@@ -3230,7 +3430,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bradley-beal",
@@ -3291,7 +3495,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2012,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "branden-carlson",
@@ -3352,7 +3560,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "brandin-podziemski",
@@ -3413,7 +3625,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "brandon-ingram",
@@ -3474,7 +3690,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "brandon-miller",
@@ -3535,7 +3755,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "brandon-williams",
@@ -3596,7 +3820,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "brice-sensabaugh",
@@ -3657,7 +3885,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "bronny-james",
@@ -3718,7 +3950,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "brook-lopez",
@@ -3779,7 +4015,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2008,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "brooks-barnhizer",
@@ -3840,7 +4080,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bruce-brown",
@@ -3901,7 +4145,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "bryce-mcgowens",
@@ -3962,7 +4210,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "bub-carrington",
@@ -4023,7 +4275,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "buddy-boeheim",
@@ -4084,7 +4340,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "buddy-hield",
@@ -4145,7 +4403,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "cj-huntley",
@@ -4206,7 +4468,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "cj-mccollum",
@@ -4267,7 +4533,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "cade-cunningham",
@@ -4328,7 +4598,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "caleb-houstan",
@@ -4389,7 +4663,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "caleb-love",
@@ -4450,7 +4726,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "caleb-martin",
@@ -4511,7 +4791,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "cam-christie",
@@ -4572,7 +4856,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "cam-spencer",
@@ -4633,7 +4921,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "cam-thomas",
@@ -4694,7 +4986,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2021,
+    "careerTo": 2025
   },
   {
     "id": "cam-whitmore",
@@ -4755,7 +5049,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "cameron-johnson",
@@ -4816,7 +5114,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "cameron-payne",
@@ -4877,7 +5179,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2015,
+    "careerTo": 2025
   },
   {
     "id": "caris-levert",
@@ -4938,7 +5242,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "carter-bryant",
@@ -4999,7 +5307,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "cason-wallace",
@@ -5060,7 +5372,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "cedric-coward",
@@ -5121,7 +5437,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "chaney-johnson",
@@ -5182,7 +5502,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "charles-bassey",
@@ -5243,7 +5567,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "chaz-lanier",
@@ -5304,7 +5632,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "chet-holmgren",
@@ -5365,7 +5697,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "chris-boucher",
@@ -5426,7 +5762,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2017,
+    "careerTo": 2025
   },
   {
     "id": "chris-livingston",
@@ -5487,7 +5825,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "chris-manon",
@@ -5548,7 +5888,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "chris-paul",
@@ -5609,7 +5953,9 @@
       "scoringTitles": 0,
       "assistTitles": 4,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2005,
+    "careerTo": 2025
   },
   {
     "id": "chris-youngblood",
@@ -5670,7 +6016,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "christian-braun",
@@ -5731,7 +6081,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "christian-koloko",
@@ -5792,7 +6146,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "chucky-hepburn",
@@ -5853,7 +6211,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "clint-capela",
@@ -5914,7 +6276,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "coby-white",
@@ -5975,7 +6341,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "cody-martin",
@@ -6036,7 +6406,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2019,
+    "careerTo": 2025
   },
   {
     "id": "cody-williams",
@@ -6097,7 +6469,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "colby-jones",
@@ -6158,7 +6534,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "cole-anthony",
@@ -6219,7 +6597,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2020,
+    "careerTo": 2025
   },
   {
     "id": "colin-castleton",
@@ -6280,7 +6660,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "collin-gillespie",
@@ -6341,7 +6725,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "collin-murray-boyles",
@@ -6402,7 +6790,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "collin-sexton",
@@ -6463,7 +6855,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "cooper-flagg",
@@ -6524,7 +6920,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "corey-kispert",
@@ -6585,7 +6985,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "cormac-ryan",
@@ -6646,7 +7050,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "craig-porter-jr",
@@ -6707,7 +7115,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "curtis-jones",
@@ -6768,7 +7180,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "d-angelo-russell",
@@ -6829,7 +7245,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "daquan-jeffries",
@@ -6890,7 +7310,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2019,
+    "careerTo": 2025
   },
   {
     "id": "daron-holmes-ii",
@@ -6951,7 +7373,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "daeqwon-plowden",
@@ -7012,7 +7438,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "dalano-banton",
@@ -7073,7 +7503,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "dalen-terry",
@@ -7134,7 +7568,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "dalton-knecht",
@@ -7195,7 +7633,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "daniel-gafford",
@@ -7256,7 +7698,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "daniss-jenkins",
@@ -7317,7 +7763,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "danny-wolf",
@@ -7378,7 +7828,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "dario-saric",
@@ -7439,7 +7893,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2016,
+    "careerTo": 2025
   },
   {
     "id": "dariq-whitehead",
@@ -7500,7 +7956,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "darius-brown",
@@ -7561,7 +8019,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "darius-garland",
@@ -7622,7 +8082,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "david-jones-garcia",
@@ -7683,7 +8147,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "david-roddy",
@@ -7744,7 +8212,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "davion-mitchell",
@@ -7805,7 +8277,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "day-ron-sharpe",
@@ -7866,7 +8342,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "de-aaron-fox",
@@ -7927,7 +8407,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "de-andre-hunter",
@@ -7988,7 +8472,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "de-anthony-melton",
@@ -8049,7 +8537,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "deandre-jordan",
@@ -8110,7 +8602,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2008,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "dejon-jarreau",
@@ -8171,7 +8667,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2021,
+    "careerTo": 2025
   },
   {
     "id": "demar-derozan",
@@ -8232,7 +8730,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2009,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "dean-wade",
@@ -8293,7 +8795,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "deandre-ayton",
@@ -8354,7 +8860,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "dejounte-murray",
@@ -8415,7 +8925,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "deni-avdija",
@@ -8476,7 +8990,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "dennis-schroder",
@@ -8537,7 +9055,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "dereck-lively-ii",
@@ -8598,7 +9120,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "derik-queen",
@@ -8659,7 +9185,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "derrick-jones-jr",
@@ -8720,7 +9250,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "derrick-white",
@@ -8781,7 +9315,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "desmond-bane",
@@ -8842,7 +9380,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "devin-booker",
@@ -8903,7 +9445,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "devin-carter",
@@ -8964,7 +9510,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "devin-vassell",
@@ -9025,7 +9575,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "dillon-brooks",
@@ -9086,7 +9640,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "dillon-jones",
@@ -9147,7 +9705,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "domantas-sabonis",
@@ -9208,7 +9770,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "dominick-barlow",
@@ -9269,7 +9835,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "donovan-clingan",
@@ -9330,7 +9900,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "donovan-mitchell",
@@ -9391,7 +9965,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "donte-divincenzo",
@@ -9452,7 +10030,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "dorian-finney-smith",
@@ -9513,7 +10095,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "doug-mcdermott",
@@ -9574,7 +10160,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "drake-powell",
@@ -9635,7 +10225,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "draymond-green",
@@ -9696,7 +10290,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2012,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "drew-eubanks",
@@ -9757,7 +10355,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "drew-peterson",
@@ -9818,7 +10420,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "drew-timme",
@@ -9879,7 +10483,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "dru-smith",
@@ -9940,7 +10548,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "duncan-robinson",
@@ -10001,7 +10613,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "duop-reath",
@@ -10062,7 +10678,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "dwight-powell",
@@ -10123,7 +10741,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "dylan-cardwell",
@@ -10184,7 +10806,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "dylan-harper",
@@ -10245,7 +10871,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "dyson-daniels",
@@ -10306,7 +10936,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "e-j-liddell",
@@ -10367,7 +11001,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "egor-demin",
@@ -10428,7 +11066,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "elijah-harkless",
@@ -10489,7 +11131,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "emanuel-miller",
@@ -10550,7 +11196,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "enrique-freeman",
@@ -10611,7 +11261,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "eric-gordon",
@@ -10672,7 +11326,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2008,
+    "careerTo": 2025
   },
   {
     "id": "ethan-thompson",
@@ -10733,7 +11389,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "evan-mobley",
@@ -10794,7 +11454,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "franz-wagner",
@@ -10855,7 +11519,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "gg-jackson",
@@ -10916,7 +11584,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "gabe-vincent",
@@ -10977,7 +11649,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "garrett-temple",
@@ -11038,7 +11714,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2009,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "garrison-mathews",
@@ -11099,7 +11779,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2019,
+    "careerTo": 2025
   },
   {
     "id": "gary-harris",
@@ -11160,7 +11842,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "gary-payton-ii",
@@ -11221,7 +11907,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "gary-trent-jr",
@@ -11282,7 +11972,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "giannis-antetokounmpo",
@@ -11343,7 +12037,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "goga-bitadze",
@@ -11404,7 +12102,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "gradey-dick",
@@ -11465,7 +12167,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "grant-nelson",
@@ -11526,7 +12232,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "grant-williams",
@@ -11587,7 +12295,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "grayson-allen",
@@ -11648,7 +12360,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "guerschon-yabusele",
@@ -11709,7 +12425,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "gui-santos",
@@ -11770,7 +12490,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "harrison-barnes",
@@ -11831,7 +12555,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2012,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "harrison-ingram",
@@ -11892,7 +12620,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "hayden-gray",
@@ -11953,7 +12685,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "haywood-highsmith",
@@ -12014,7 +12750,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "herbert-jones",
@@ -12075,7 +12815,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "hugo-gonzalez",
@@ -12136,7 +12880,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "hunter-dickinson",
@@ -12197,7 +12945,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "hunter-sallis",
@@ -12258,7 +13010,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "hunter-tyson",
@@ -12319,7 +13073,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "immanuel-quickley",
@@ -12380,7 +13136,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "isaac-jones",
@@ -12441,7 +13201,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "isaac-okoro",
@@ -12502,7 +13266,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "isaiah-collier",
@@ -12563,7 +13331,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "isaiah-crawford",
@@ -12624,7 +13396,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "isaiah-hartenstein",
@@ -12685,7 +13461,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "isaiah-jackson",
@@ -12746,7 +13526,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "isaiah-joe",
@@ -12807,7 +13591,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "isaiah-livers",
@@ -12868,7 +13656,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "isaiah-stevens",
@@ -12929,7 +13721,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "isaiah-stewart",
@@ -12990,7 +13786,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "ivica-zubac",
@@ -13051,7 +13851,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "jd-davison",
@@ -13112,7 +13916,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ja-morant",
@@ -13173,7 +13981,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ja-kobe-walter",
@@ -13234,7 +14046,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jabari-smith-jr",
@@ -13295,7 +14111,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jabari-walker",
@@ -13356,7 +14176,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jacob-toppin",
@@ -13417,7 +14241,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "jaden-hardy",
@@ -13478,7 +14304,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jaden-ivey",
@@ -13539,7 +14369,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "jaden-mcdaniels",
@@ -13600,7 +14432,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jae-sean-tate",
@@ -13661,7 +14497,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jahmai-mashack",
@@ -13722,7 +14562,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jahmir-young",
@@ -13783,7 +14627,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jahmyl-telfort",
@@ -13844,7 +14692,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "jaime-jaquez-jr",
@@ -13905,7 +14755,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jake-laravia",
@@ -13966,7 +14820,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jakob-poeltl",
@@ -14027,7 +14885,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "jalen-brunson",
@@ -14088,7 +14950,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jalen-duren",
@@ -14149,7 +15015,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "jalen-green",
@@ -14210,7 +15080,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jalen-johnson",
@@ -14271,7 +15145,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jalen-pickett",
@@ -14332,7 +15210,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jalen-slawson",
@@ -14393,7 +15275,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jalen-smith",
@@ -14454,7 +15340,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "jalen-suggs",
@@ -14515,7 +15405,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jalen-williams",
@@ -14576,7 +15470,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "jalen-wilson",
@@ -14637,7 +15535,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jamal-cain",
@@ -14698,7 +15600,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jamal-murray",
@@ -14759,7 +15665,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jamal-shead",
@@ -14820,7 +15730,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jamaree-bouyea",
@@ -14881,7 +15795,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "james-harden",
@@ -14942,7 +15860,11 @@
       "scoringTitles": 3,
       "assistTitles": 2,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2009,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "james-wiseman",
@@ -15003,7 +15925,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2020,
+    "careerTo": 2025
   },
   {
     "id": "jamir-watkins",
@@ -15064,7 +15988,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jamison-battle",
@@ -15125,7 +16053,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jarace-walker",
@@ -15186,7 +16118,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jared-mccain",
@@ -15247,7 +16183,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jaren-jackson-jr",
@@ -15308,7 +16248,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "jarred-vanderbilt",
@@ -15369,7 +16313,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jarrett-allen",
@@ -15430,7 +16378,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "jase-richardson",
@@ -15491,7 +16443,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "javon-small",
@@ -15552,7 +16508,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "javonte-cooke",
@@ -15613,7 +16573,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "javonte-green",
@@ -15674,7 +16636,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jaxson-hayes",
@@ -15735,7 +16701,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "jay-huff",
@@ -15796,7 +16766,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "jaylen-brown",
@@ -15857,7 +16831,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "jaylen-clark",
@@ -15918,7 +16896,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jaylen-wells",
@@ -15979,7 +16961,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jaylin-williams",
@@ -16040,7 +17026,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jaylon-tyson",
@@ -16101,7 +17091,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "jayson-kent",
@@ -16162,7 +17156,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jayson-tatum",
@@ -16223,7 +17221,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "jeff-green",
@@ -16284,7 +17286,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2007,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jerami-grant",
@@ -16345,7 +17351,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jeremiah-fears",
@@ -16406,7 +17416,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jeremiah-robinson-earl",
@@ -16467,7 +17481,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2021,
+    "careerTo": 2025
   },
   {
     "id": "jeremy-sochan",
@@ -16528,7 +17544,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jericho-sims",
@@ -16589,7 +17609,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "jett-howard",
@@ -16650,7 +17674,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jevon-carter",
@@ -16711,7 +17739,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jimmy-butler-iii",
@@ -16772,7 +17804,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2011,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "joan-beringer",
@@ -16833,7 +17869,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jock-landale",
@@ -16894,7 +17934,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "joe-ingles",
@@ -16955,7 +17999,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "joel-embiid",
@@ -17016,7 +18064,11 @@
       "scoringTitles": 2,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "john-collins",
@@ -17077,7 +18129,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "john-konchar",
@@ -17138,7 +18194,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "john-poulakidas",
@@ -17199,7 +18259,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "john-tonje",
@@ -17260,7 +18324,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "johni-broome",
@@ -17321,7 +18389,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "johnny-furphy",
@@ -17382,7 +18454,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "johnny-juzang",
@@ -17443,7 +18519,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "jonas-valanciunas",
@@ -17504,7 +18582,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2012,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "jonathan-isaac",
@@ -17565,7 +18647,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jonathan-kuminga",
@@ -17626,7 +18712,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jonathan-mogbo",
@@ -17687,7 +18777,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jordan-clarkson",
@@ -17748,7 +18842,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jordan-goodwin",
@@ -17809,7 +18907,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jordan-hawkins",
@@ -17870,7 +18972,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jordan-mclaughlin",
@@ -17931,7 +19037,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jordan-miller",
@@ -17992,7 +19102,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jordan-poole",
@@ -18053,7 +19167,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jordan-walsh",
@@ -18114,7 +19232,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jose-alvarado",
@@ -18175,7 +19297,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "josh-giddey",
@@ -18236,7 +19362,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "josh-green",
@@ -18297,7 +19427,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "josh-hart",
@@ -18358,7 +19492,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "josh-minott",
@@ -18419,7 +19557,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "josh-oduro",
@@ -18480,7 +19622,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "josh-okogie",
@@ -18541,7 +19687,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "jrue-holiday",
@@ -18602,7 +19752,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2009,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "julian-champagnie",
@@ -18663,7 +19817,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "julian-phillips",
@@ -18724,7 +19882,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "julian-reese",
@@ -18785,7 +19947,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "julian-strawther",
@@ -18846,7 +20012,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "julius-randle",
@@ -18907,7 +20077,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "justin-champagnie",
@@ -18968,7 +20142,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "justin-edwards",
@@ -19029,7 +20207,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "jusuf-nurkic",
@@ -19090,7 +20272,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "kj-simpson",
@@ -19151,7 +20337,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kadary-richmond",
@@ -19212,7 +20402,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "kam-jones",
@@ -19273,7 +20465,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "karl-anthony-towns",
@@ -19334,7 +20530,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "karlo-matkovic",
@@ -19395,7 +20595,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "kasparas-jakucionis",
@@ -19456,7 +20660,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kawhi-leonard",
@@ -19517,7 +20725,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2011,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "keaton-wallace",
@@ -19578,7 +20790,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "keegan-murray",
@@ -19639,7 +20855,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "kel-el-ware",
@@ -19700,7 +20920,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "keldon-johnson",
@@ -19761,7 +20985,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "kelly-olynyk",
@@ -19822,7 +21050,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "kelly-oubre-jr",
@@ -19883,7 +21115,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "kennedy-chandler",
@@ -19944,7 +21180,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "kenrich-williams",
@@ -20005,7 +21243,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "kentavious-caldwell-pope",
@@ -20066,7 +21308,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "keon-ellis",
@@ -20127,7 +21373,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "keshad-johnson",
@@ -20188,7 +21438,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "keshon-gilbert",
@@ -20249,7 +21503,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kevin-durant",
@@ -20310,7 +21568,11 @@
       "scoringTitles": 4,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2007,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "kevin-huerter",
@@ -20371,7 +21633,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "kevin-love",
@@ -20432,7 +21698,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2008,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "kevin-mccullar-jr",
@@ -20493,7 +21763,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kevin-porter-jr",
@@ -20554,7 +21828,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "kevon-looney",
@@ -20615,7 +21893,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "keyonte-george",
@@ -20676,7 +21958,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "khaman-maluach",
@@ -20737,7 +22023,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "khris-middleton",
@@ -20798,7 +22088,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2012,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "killian-hayes",
@@ -20859,7 +22153,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "klay-thompson",
@@ -20920,7 +22218,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2011,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kobe-brown",
@@ -20981,7 +22283,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "kobe-bufkin",
@@ -21042,7 +22348,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2023,
+    "careerTo": 2025
   },
   {
     "id": "kobe-sanders",
@@ -21103,7 +22411,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "koby-brea",
@@ -21164,7 +22476,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kon-knueppel",
@@ -21225,7 +22541,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "kris-dunn",
@@ -21286,7 +22606,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kris-murray",
@@ -21347,7 +22671,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "kristaps-porzingis",
@@ -21408,7 +22736,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "kyle-anderson",
@@ -21469,7 +22801,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "kyle-filipowski",
@@ -21530,7 +22866,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "kyle-kuzma",
@@ -21591,7 +22931,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "kyle-lowry",
@@ -21652,7 +22996,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2006,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "kyshawn-george",
@@ -21713,7 +23061,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "lj-cryer",
@@ -21774,7 +23126,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "lamelo-ball",
@@ -21835,7 +23191,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "lachlan-olbrich",
@@ -21896,7 +23256,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "landry-shamet",
@@ -21957,7 +23321,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "larry-nance-jr",
@@ -22018,7 +23386,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "lauri-markkanen",
@@ -22079,7 +23451,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "lawson-lovering",
@@ -22140,7 +23516,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "lebron-james",
@@ -22201,7 +23579,11 @@
       "scoringTitles": 1,
       "assistTitles": 1,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2003,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "leaky-black",
@@ -22262,7 +23644,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "leonard-miller",
@@ -22323,7 +23709,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "liam-mcneeley",
@@ -22384,7 +23774,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "lindy-waters-iii",
@@ -22445,7 +23839,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "lonzo-ball",
@@ -22506,7 +23904,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2017,
+    "careerTo": 2025
   },
   {
     "id": "lucas-williamson",
@@ -22567,7 +23967,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "luguentz-dort",
@@ -22628,7 +24030,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "luka-doncic",
@@ -22689,7 +24095,11 @@
       "scoringTitles": 1,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "luka-garza",
@@ -22750,7 +24160,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "luke-kennard",
@@ -22811,7 +24225,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "luke-kornet",
@@ -22872,7 +24290,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "luke-travers",
@@ -22933,7 +24355,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2024,
+    "careerTo": 2025
   },
   {
     "id": "mac-mcclung",
@@ -22994,7 +24418,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "malachi-smith",
@@ -23055,7 +24483,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "malaki-branham",
@@ -23116,7 +24548,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "malevy-leons",
@@ -23177,7 +24611,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "malik-monk",
@@ -23238,7 +24676,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "marjon-beauchamp",
@@ -23299,7 +24741,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "marcus-sasser",
@@ -23360,7 +24806,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "marcus-smart",
@@ -23421,7 +24871,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "mark-sears",
@@ -23482,7 +24936,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "mark-williams",
@@ -23543,7 +24999,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "markelle-fultz",
@@ -23604,7 +25064,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2017,
+    "careerTo": 2025
   },
   {
     "id": "marvin-bagley-iii",
@@ -23665,7 +25127,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "mason-plumlee",
@@ -23726,7 +25192,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "matas-buzelis",
@@ -23787,7 +25257,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "matisse-thybulle",
@@ -23848,7 +25322,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "max-christie",
@@ -23909,7 +25387,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "max-shulga",
@@ -23970,7 +25452,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "max-strus",
@@ -24031,7 +25517,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "maxi-kleber",
@@ -24092,7 +25582,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "maxime-raynaud",
@@ -24153,7 +25647,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "micah-peavy",
@@ -24214,7 +25712,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "micah-potter",
@@ -24275,7 +25777,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "michael-porter-jr",
@@ -24336,7 +25842,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "mikal-bridges",
@@ -24397,7 +25907,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "mike-conley",
@@ -24458,7 +25972,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2007,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "miles-bridges",
@@ -24519,7 +26037,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "miles-kelly",
@@ -24580,7 +26102,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "miles-mcbride",
@@ -24641,7 +26165,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "mitchell-robinson",
@@ -24702,7 +26230,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "mo-bamba",
@@ -24763,7 +26295,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2018,
+    "careerTo": 2025
   },
   {
     "id": "mohamed-diawara",
@@ -24824,7 +26358,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "monte-morris",
@@ -24885,7 +26423,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2017,
+    "careerTo": 2025
   },
   {
     "id": "moritz-wagner",
@@ -24946,7 +26486,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "moses-moody",
@@ -25007,7 +26551,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "mouhamadou-gueye",
@@ -25068,7 +26616,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "mouhamed-gueye",
@@ -25129,7 +26681,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "moussa-cisse",
@@ -25190,7 +26746,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "moussa-diabate",
@@ -25251,7 +26811,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "myles-turner",
@@ -25312,7 +26876,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "myron-gardner",
@@ -25373,7 +26941,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "n-faly-dante",
@@ -25434,7 +27006,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2024,
+    "careerTo": 2025
   },
   {
     "id": "nae-qwan-tomlin",
@@ -25495,7 +27069,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "naji-marshall",
@@ -25556,7 +27134,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "nate-williams",
@@ -25617,7 +27199,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "naz-reid",
@@ -25678,7 +27264,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "neemias-queta",
@@ -25739,7 +27329,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "nic-claxton",
@@ -25800,7 +27394,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "nick-richards",
@@ -25861,7 +27459,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "nick-smith-jr",
@@ -25922,7 +27524,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "nickeil-alexander-walker",
@@ -25983,7 +27589,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "nicolas-batum",
@@ -26044,7 +27654,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2008,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "nigel-hayes-davis",
@@ -26105,7 +27719,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2017,
+    "careerTo": 2025
   },
   {
     "id": "nikola-jokic",
@@ -26166,7 +27782,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "nikola-jovic",
@@ -26227,7 +27847,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "nikola-topic",
@@ -26288,7 +27912,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "nikola-vucevic",
@@ -26349,7 +27977,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2011,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "nique-clifford",
@@ -26410,7 +28042,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "noa-essengue",
@@ -26471,7 +28107,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "noah-clowney",
@@ -26532,7 +28172,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "noah-penda",
@@ -26593,7 +28237,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "nolan-traore",
@@ -26654,7 +28302,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "norchad-omier",
@@ -26715,7 +28367,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "norman-powell",
@@ -26776,7 +28432,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "og-anunoby",
@@ -26837,7 +28497,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "obi-toppin",
@@ -26898,7 +28562,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "ochai-agbaji",
@@ -26959,7 +28627,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "olivier-sarr",
@@ -27020,7 +28692,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "olivier-maxence-prosper",
@@ -27081,7 +28757,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "omer-yurtseven",
@@ -27142,7 +28822,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2020,
+    "careerTo": 2025
   },
   {
     "id": "onyeka-okongwu",
@@ -27203,7 +28885,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "orlando-robinson",
@@ -27264,7 +28950,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "oscar-tshiebwe",
@@ -27325,7 +29013,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "oso-ighodaro",
@@ -27386,7 +29078,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "ousmane-dieng",
@@ -27447,7 +29143,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "p-j-washington",
@@ -27508,7 +29208,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "pj-hall",
@@ -27569,7 +29273,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "pacome-dadiet",
@@ -27630,7 +29338,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "paolo-banchero",
@@ -27691,7 +29403,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "pascal-siakam",
@@ -27752,7 +29468,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "pat-connaughton",
@@ -27813,7 +29533,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "pat-spencer",
@@ -27874,7 +29598,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "patrick-baldwin-jr",
@@ -27935,7 +29663,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "patrick-williams",
@@ -27996,7 +29728,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "paul-george",
@@ -28057,7 +29793,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2010,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "paul-reed",
@@ -28118,7 +29858,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "payton-pritchard",
@@ -28179,7 +29923,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "payton-sandfort",
@@ -28240,7 +29988,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "pelle-larsson",
@@ -28301,7 +30053,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "pete-nance",
@@ -28362,7 +30118,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "peyton-watson",
@@ -28423,7 +30183,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "precious-achiuwa",
@@ -28484,7 +30248,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "quentin-grimes",
@@ -28545,7 +30313,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "quenton-jackson",
@@ -28606,7 +30378,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "quinten-post",
@@ -28667,7 +30443,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "rj-barrett",
@@ -28728,7 +30508,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "rasheer-fleming",
@@ -28789,7 +30573,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "rayj-dennis",
@@ -28850,7 +30638,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "rayan-rupert",
@@ -28911,7 +30703,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "reed-sheppard",
@@ -28972,7 +30768,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "riley-minix",
@@ -29033,7 +30833,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "rob-dillingham",
@@ -29094,7 +30898,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "robert-williams-iii",
@@ -29155,7 +30963,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "rocco-zikarsky",
@@ -29216,7 +31028,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "ron-harper-jr",
@@ -29277,7 +31093,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "ronald-holland-ii",
@@ -29338,7 +31158,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "royce-o-neale",
@@ -29399,7 +31223,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "rudy-gobert",
@@ -29460,7 +31288,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "rui-hachimura",
@@ -29521,7 +31353,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAL",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "russell-westbrook",
@@ -29582,7 +31418,11 @@
       "scoringTitles": 2,
       "assistTitles": 3,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2008,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ryan-dunn",
@@ -29643,7 +31483,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHX",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "ryan-kalkbrenner",
@@ -29704,7 +31548,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "ryan-nembhard",
@@ -29765,7 +31613,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ryan-rollins",
@@ -29826,7 +31678,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "saddiq-bey",
@@ -29887,7 +31743,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "sam-hauser",
@@ -29948,7 +31808,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BOS",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "sam-merrill",
@@ -30009,7 +31873,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "sandro-mamukelashvili",
@@ -30070,7 +31938,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "santi-aldama",
@@ -30131,7 +32003,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "scoot-henderson",
@@ -30192,7 +32068,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "scottie-barnes",
@@ -30253,7 +32133,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F-G"
   },
   {
     "id": "scotty-pippen-jr",
@@ -30314,7 +32198,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "sean-pedulla",
@@ -30375,7 +32263,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "seth-curry",
@@ -30436,7 +32328,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "shaedon-sharpe",
@@ -30497,7 +32393,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "shai-gilgeous-alexander",
@@ -30558,7 +32458,11 @@
       "scoringTitles": 1,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "OKC",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "sharife-cooper",
@@ -30619,7 +32523,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "sidy-cissoko",
@@ -30680,7 +32588,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "simone-fontecchio",
@@ -30741,7 +32653,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "sion-james",
@@ -30802,7 +32718,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "skal-labissiere",
@@ -30863,7 +32783,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2016,
+    "careerTo": 2025
   },
   {
     "id": "spencer-jones",
@@ -30924,7 +32846,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "stanley-umude",
@@ -30985,7 +32911,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "stephen-curry",
@@ -31046,7 +32974,11 @@
       "scoringTitles": 2,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2009,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "stephon-castle",
@@ -31107,7 +33039,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "steven-adams",
@@ -31168,7 +33104,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "svi-mykhailiuk",
@@ -31229,7 +33169,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "t-j-mcconnell",
@@ -31290,7 +33234,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "taelon-peter",
@@ -31351,7 +33299,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "IND",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "taj-gibson",
@@ -31412,7 +33364,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2009,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tari-eason",
@@ -31473,7 +33429,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "taurean-prince",
@@ -31534,7 +33494,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2016,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "taylor-hendricks",
@@ -31595,7 +33559,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "terance-mann",
@@ -31656,7 +33624,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "terrence-shannon-jr",
@@ -31717,7 +33689,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "thanasis-antetokounmpo",
@@ -31778,7 +33754,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIL",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "thomas-bryant",
@@ -31839,7 +33819,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "tidjane-salaun",
@@ -31900,7 +33884,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tim-hardaway-jr",
@@ -31961,7 +33949,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2013,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "tobias-harris",
@@ -32022,7 +34014,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2011,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "toby-okani",
@@ -32083,7 +34079,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "tolu-smith",
@@ -32144,7 +34142,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tony-bradley",
@@ -32205,7 +34207,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "tosan-evbuomwan",
@@ -32266,7 +34272,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "toumani-camara",
@@ -32327,7 +34337,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "trae-young",
@@ -32388,7 +34402,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "trayce-jackson-davis",
@@ -32449,7 +34467,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "TOR",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tre-johnson",
@@ -32510,7 +34532,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tre-jones",
@@ -32571,7 +34597,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tre-mann",
@@ -32632,7 +34662,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "trendon-watford",
@@ -32693,7 +34727,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "trentyn-flowers",
@@ -32754,7 +34792,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2024,
+    "careerTo": 2025
   },
   {
     "id": "trevon-scott",
@@ -32815,7 +34855,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2021,
+    "careerTo": 2025
   },
   {
     "id": "trevor-keels",
@@ -32876,7 +34918,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "trey-alexander",
@@ -32937,7 +34983,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "trey-jemison-iii",
@@ -32998,7 +35048,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "trey-murphy-iii",
@@ -33059,7 +35113,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tristan-enaruna",
@@ -33120,7 +35178,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tristan-vukcevic",
@@ -33181,7 +35243,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tristan-da-silva",
@@ -33242,7 +35308,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tristen-newton",
@@ -33303,7 +35373,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "HOU",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "ty-jerome",
@@ -33364,7 +35438,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G-F"
   },
   {
     "id": "tyty-washington-jr",
@@ -33425,7 +35503,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tyler-burton",
@@ -33486,7 +35568,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2025,
+    "careerTo": 2025
   },
   {
     "id": "tyler-herro",
@@ -33547,7 +35631,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tyler-kolek",
@@ -33608,7 +35696,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NYK",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tyler-smith",
@@ -33669,7 +35761,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DAL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tyrese-martin",
@@ -33730,7 +35826,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "tyrese-maxey",
@@ -33791,7 +35891,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tyrese-proctor",
@@ -33852,7 +35956,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CLE",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tyson-etienne",
@@ -33913,7 +36021,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "tyus-jones",
@@ -33974,7 +36086,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2015,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "vj-edgecombe",
@@ -34035,7 +36151,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "PHI",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "victor-wembanyama",
@@ -34096,7 +36216,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAS",
+    "careerFrom": 2023,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "vince-williams-jr",
@@ -34157,7 +36281,9 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "careerFrom": 2022,
+    "careerTo": 2025
   },
   {
     "id": "vladislav-goldin",
@@ -34218,7 +36344,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIA",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "vit-krejci",
@@ -34279,7 +36409,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "walker-kessler",
@@ -34340,7 +36474,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "UTA",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "walter-clayton-jr",
@@ -34401,7 +36539,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "wendell-carter-jr",
@@ -34462,7 +36604,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ORL",
+    "careerFrom": 2018,
+    "careerTo": 2025,
+    "position": "C-F"
   },
   {
     "id": "wendell-moore-jr",
@@ -34523,7 +36669,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DET",
+    "careerFrom": 2022,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "will-richard",
@@ -34584,7 +36734,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "GSW",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "will-riley",
@@ -34645,7 +36799,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "WAS",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "xavier-tillman",
@@ -34706,7 +36864,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHA",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "yang-hansen",
@@ -34767,7 +36929,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "POR",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "yanic-konan-niederhauser",
@@ -34828,7 +36994,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "LAC",
+    "careerFrom": 2025,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "yuki-kawamura",
@@ -34889,7 +37059,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "yves-missi",
@@ -34950,7 +37124,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "zaccharie-risacher",
@@ -35011,7 +37189,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "ATL",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "zach-collins",
@@ -35072,7 +37254,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "CHI",
+    "careerFrom": 2017,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "zach-edey",
@@ -35133,7 +37319,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MEM",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "C"
   },
   {
     "id": "zach-lavine",
@@ -35194,7 +37384,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "SAC",
+    "careerFrom": 2014,
+    "careerTo": 2025,
+    "position": "G"
   },
   {
     "id": "zeke-nnaji",
@@ -35255,7 +37449,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "DEN",
+    "careerFrom": 2020,
+    "careerTo": 2025,
+    "position": "F-C"
   },
   {
     "id": "ziaire-williams",
@@ -35316,7 +37514,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "BKN",
+    "careerFrom": 2021,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "zion-williamson",
@@ -35377,7 +37579,11 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "NOP",
+    "careerFrom": 2019,
+    "careerTo": 2025,
+    "position": "F"
   },
   {
     "id": "zyon-pullin",
@@ -35438,6 +37644,10 @@
       "scoringTitles": 0,
       "assistTitles": 0,
       "reboundTitles": 0
-    }
+    },
+    "team": "MIN",
+    "careerFrom": 2024,
+    "careerTo": 2025,
+    "position": "G"
   }
 ]
