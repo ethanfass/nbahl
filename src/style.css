@@ -551,17 +551,19 @@ body::after {
        in the middle of each half so the seam stays clear. */
     .panel-inner { padding: 8px 14px; max-width: 100%; justify-content: center; }
     .pi-head, .pi-foot { flex: 0 0 auto; }
-    .panel .pname { font-size: clamp(24px, 7vw, 38px); }
-    .panel .meta { font-size: 17px; margin-top: 4px; }
-    .panel .has { font-size: 10px; margin-top: 8px; }
-    .answer-slot { min-height: 84px; margin: 6px 0; gap: 6px; }
-    .panel .stat-value { font-size: clamp(28px, 8vw, 44px); }
+    .panel .pname { font-size: clamp(21px, 6.2vw, 31px); }
+    .panel .meta { font-size: 14px; margin-top: 2px; }
+    .panel .has { font-size: 9px; margin-top: 4px; }
+    /* stacked panels don't need to align with each other, so drop the forced slot
+       height — it only wasted vertical space and pushed content into the seam */
+    .answer-slot { min-height: 0; margin: 4px 0; gap: 5px; }
+    .panel .stat-value { font-size: clamp(24px, 7vw, 38px); }
     .panel .span { font-size: 9px; margin-top: 0; }
-    .panel .stat-label { font-size: 17px; margin-top: 0; }
-    .panel .stat-label .cat-wrap { gap: 7px; } /* tighter under the pill at mobile sizes */
-    .panel .stat-label .cat { font-size: 10px; }
-    .panel .stat-label .stat-name { font-size: 12px; }
-    .panel .stat-label .than { font-size: 17px; }
+    .panel .stat-label { font-size: 14px; margin-top: 6px; gap: 6px; } /* nudge the pill/years down a touch */
+    .panel .stat-label .cat-wrap { gap: 5px; } /* tighter under the pill at mobile sizes */
+    .panel .stat-label .cat { font-size: 9px; padding: 4px 11px; }
+    .panel .stat-label .stat-name { font-size: 11px; }
+    .panel .stat-label .than { font-size: 14px; }
 
     /* slim seam medallion — short + wide so it rides the divider line between the
        stacked panels instead of covering the name / stat text above and below it */
@@ -575,9 +577,9 @@ body::after {
         letter-spacing: 2px;
         box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.5), 0 0 14px rgba(255, 255, 255, 0.4), 0 3px 10px rgba(0, 0, 0, 0.55);
     }
-    .guess-stack { gap: 10px; }
-    .gbtn { font-size: 14px; padding: 12px 30px; border-radius: 36px; }
-    .gbtn .arrow { font-size: 12px; }
+    .guess-stack { gap: 8px; }
+    .gbtn { font-size: 13px; padding: 10px 26px; border-radius: 32px; }
+    .gbtn .arrow { font-size: 11px; }
 
     /* game-over modal fits the screen */
     .gameover { padding: 20px 18px; width: min(92vw, 420px); }
@@ -592,7 +594,10 @@ body::after {
     .daily-status { display: none; }
     .panel .pname { font-size: clamp(20px, 6vw, 32px); }
     .panel .has { margin-top: 4px; }
-    .answer-slot { min-height: 70px; margin: 4px 0; }
     .panel .stat-value { font-size: clamp(22px, 6vw, 36px); }
     .gbtn { padding: 9px 24px; font-size: 12px; }
+}
+/* still side-by-side (not stacked): keep the slots equal-height so labels line up */
+@media (max-height: 560px) and (min-width: 761px) {
+    .answer-slot { min-height: 70px; margin: 4px 0; }
 }
