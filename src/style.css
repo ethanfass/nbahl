@@ -324,25 +324,40 @@ body::after {
 .panel.left .span { color: #8fb4ff; }
 .panel.right .span { color: #ff9aa0; }
 .panel .stat-label {
-    font-family: 'VT323', monospace;
-    font-size: 26px;
-    color: var(--ink-dim);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
     margin-top: 16px;
     line-height: 1.3;
-    text-shadow: 1px 1px 0 #000;
 }
+/* the "when" — a pill badge so it clearly reads as a tag, not part of the metric */
 .panel .stat-label .cat {
     font-family: 'Press Start 2P', monospace;
     font-size: 13px;
     letter-spacing: 1px;
     text-transform: uppercase;
+    color: var(--cat);
+    border: 2px solid var(--cat);
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 999px;
+    padding: 6px 14px;
+    text-shadow: 1px 1px 0 #000;
 }
+/* the "what" — the metric, larger and in its own color */
 .panel .stat-label .stat-name {
     font-family: 'Press Start 2P', monospace;
-    font-size: 15px;
+    font-size: 20px;
     letter-spacing: 1px;
+    line-height: 1.5;
+    text-shadow: 2px 2px 0 #000;
 }
-.panel .stat-label .than { color: var(--ink); font-family: 'VT323', monospace; font-size: 26px; }
+.panel .stat-label .than {
+    color: var(--ink);
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+    letter-spacing: 0;
+}
 
 /* ---- VS badge in the seam ---- */
 .vs-badge {

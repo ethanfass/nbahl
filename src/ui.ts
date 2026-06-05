@@ -63,10 +63,26 @@ function isCareerStat(stat: StatDef): boolean {
     return stat.category === 'Career Average' || stat.category === 'Career Total';
 }
 
-// "CAREER  Points Per Game" — the category + metric, each in its own color.
-function statLabelHtml(stat: StatDef): string {
-    return `<span class="cat" style="color:${stat.categoryColor}">${stat.categoryLabel}</span> ` +
-        `<span class="stat-name" style="color:${stat.color}">${stat.label}</span>`;
+function hexToRgb(hex: string): [number, number, number] {
+    const h = hex.replace('#', '');
+    const full = h.length === 3 ? h.split('').map((c) => c + c).join('') : h;
+    return [parseInt(full.slice(0, 2), 16), parseInt(full.slice(2, 4), 16), parseInt(full.slice(4, 6), 16)];
+}
+
+// Rough perceptual distance between two hex colors.
+function colorDistance(a: string, b: string): number {
+    const [r1, g1, b1] = hexToRgb(a);
+    const [r2, g2, b2] = hexToRgb(b);
+    return Math.hypot(r1 - r2, g1 - g2, b1 - b2);
+}
+
+// The category as a colored pill, with the metric name (in its own color) below.
+// If the metric color is too close to the category color, fall back to white so
+// the two never read as the same color. `suffix` appends "than <player>".
+function statLabelHtml(stat: StatDef, suffix = ''): string {
+    const metricColor = colorDistance(stat.color, stat.categoryColor) < 90 ? '#ffffff' : stat.color;
+    return `<span class="cat" style="--cat:${stat.categoryColor}">${stat.categoryLabel}</span>` +
+        `<span class="stat-name" style="color:${metricColor}">${stat.label}${suffix}</span>`;
 }
 
 export class UI {
@@ -153,7 +169,7 @@ export class UI {
                                 ${this.rightMiddleHtml(view, rightValueClass, rightValueText)}
                                 ${revealed && rightSpan ? `<div class="span">${rightSpan}</div>` : ''}
                             </div>
-                            <div class="stat-label">${statLabelHtml(stat)} <span class="than">than ${escape(left.name)}</span></div>
+                            <div class="stat-label">${statLabelHtml(stat, ` <span class="than">than ${escape(left.name)}</span>`)}</div>
                         </div>
                     </div>
                 </div>
