@@ -215,7 +215,7 @@ export class UI {
                         </div>
                     </div>
                 </div>
-                ${(view.phase === 'over' || state.over) ? `<div class="overlay">${this.gameOverHtml(state)}</div>` : ''}
+                ${(view.phase === 'over' || state.over) ? `<div class="overlay">${this.gameOverHtml(view)}</div>` : ''}
             </div>
         `;
 
@@ -288,8 +288,15 @@ export class UI {
     }
 
     // Game-over panel — shared by an unlimited miss and a timed clock-out.
-    private gameOverHtml(state: GameState): string {
+    private gameOverHtml(view: View): string {
+        const state = view.state;
         const avg = averageChoiceSeconds(state).toFixed(1);
+
+        // The overlay covers the reveal, so the run-ending miss is shown here:
+        // both players' true values on the stat you guessed wrong.
+        const missed = view.phase === 'reveal' && !view.correct
+            ? this.missedMatchupHtml(state)
+            : '';
 
         if (state.mode === 'daily') {
             const won = state.won;
@@ -297,6 +304,7 @@ export class UI {
                 <div class="gameover">
                     <div class="banner ${won ? 'ok' : 'bad'}">${won ? 'Daily Beat!' : 'Failed!'}</div>
                     <div class="go-title ${won ? 'win' : ''}">${won ? `Beat it on attempt ${state.attempt}` : `Attempt ${state.attempt} failed`}</div>
+                    ${missed}
                     <div class="go-stats">
                         <div class="go-stat"><div class="go-stat-label">Score</div><div class="go-stat-val">${state.score}/${DAILY_TARGET}</div></div>
                         <div class="go-stat"><div class="go-stat-label">Attempt</div><div class="go-stat-val">${state.attempt}</div></div>
@@ -315,6 +323,7 @@ export class UI {
             <div class="gameover">
                 <div class="banner bad">${banner}</div>
                 <div class="go-title">Game Over</div>
+                ${missed}
                 <div class="go-stats">
                     <div class="go-stat"><div class="go-stat-label">${scoreLabel}</div><div class="go-stat-val">${state.score}</div></div>
                     <div class="go-stat"><div class="go-stat-label">Best</div><div class="go-stat-val best">${state.best}</div></div>
@@ -323,6 +332,32 @@ export class UI {
                 <div class="go-actions">
                     <button class="btn primary" data-act="restart">Play again</button>
                     <button class="btn share" data-act="share">Share</button>
+                </div>
+            </div>`;
+    }
+
+    // The matchup you just missed: each player's real value on the contested stat,
+    // with the higher value marked green so the right answer is obvious.
+    private missedMatchupHtml(state: GameState): string {
+        const { left, right, stat } = state.round;
+        const lv = stat.get(left)!;
+        const rv = stat.get(right)!;
+        const leftHi = lv >= rv ? 'higher' : '';
+        const rightHi = rv >= lv ? 'higher' : '';
+        const cat = `<span class="gm-cat">${stat.categoryLabel}</span> ${escape(stat.label)}`;
+        return `
+            <div class="go-missed">
+                <div class="go-missed-head">${cat}</div>
+                <div class="go-missed-row">
+                    <div class="gm-side">
+                        <div class="gm-name">${escape(left.name)}</div>
+                        <div class="gm-val ${leftHi}">${stat.format(lv)}</div>
+                    </div>
+                    <div class="gm-mid">vs</div>
+                    <div class="gm-side">
+                        <div class="gm-name">${escape(right.name)}</div>
+                        <div class="gm-val ${rightHi}">${stat.format(rv)}</div>
+                    </div>
                 </div>
             </div>`;
     }

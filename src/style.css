@@ -503,6 +503,54 @@ body::after {
     text-shadow: 2px 2px 0 #000;
 }
 .go-stat-val.best { color: var(--yellow); text-shadow: 2px 2px 0 #000, 0 0 12px rgba(255, 212, 0, 0.6); }
+/* the matchup you just lost on — both players' real values, side by side */
+.gameover .go-missed {
+    width: 100%;
+    margin: 14px 0 4px;
+    padding: 14px 18px;
+    border: 3px solid #000;
+    box-shadow: 0 0 0 3px #34343d;
+    background: var(--panel-2);
+}
+.go-missed-head {
+    font-family: 'VT323', monospace;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: var(--ink-dim);
+    margin-bottom: 12px;
+    text-shadow: 1px 1px 0 #000;
+}
+.go-missed-head .gm-cat {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--cyan);
+}
+.go-missed-row { display: flex; align-items: center; justify-content: center; gap: 18px; }
+.gm-side { flex: 1; text-align: center; min-width: 0; }
+.gm-name {
+    font-family: 'VT323', monospace;
+    font-size: 24px;
+    line-height: 1.1;
+    color: var(--ink);
+    text-shadow: 1px 1px 0 #000;
+    margin-bottom: 8px;
+}
+.gm-val {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 22px;
+    color: var(--ink-dim);
+    text-shadow: 2px 2px 0 #000;
+}
+.gm-val.higher { color: var(--green); text-shadow: 2px 2px 0 #000, 0 0 12px rgba(0, 230, 118, 0.6); }
+.gm-mid {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 12px;
+    color: var(--ink-dim);
+    text-shadow: 1px 1px 0 #000;
+}
+
 .gameover .go-actions { display: flex; gap: 14px; justify-content: center; }
 .btn {
     font-family: 'Press Start 2P', monospace;
@@ -587,6 +635,13 @@ body::after {
     .gameover .go-stats { gap: 16px; margin: 10px 0 14px; }
     .go-stat-val { font-size: 18px; }
     .gameover .go-actions { flex-wrap: wrap; }
+    .gameover .go-missed { padding: 10px 12px; margin: 10px 0 2px; }
+    .go-missed-head { font-size: 17px; margin-bottom: 8px; }
+    .go-missed-head .gm-cat { font-size: 8px; }
+    .go-missed-row { gap: 10px; }
+    .gm-name { font-size: 18px; margin-bottom: 5px; }
+    .gm-val { font-size: 16px; }
+    .gm-mid { font-size: 10px; }
 }
 
 /* short / landscape phones: shrink further so both panels still fit */
